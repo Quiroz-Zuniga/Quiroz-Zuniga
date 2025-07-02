@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/32a2675a-d3f4-40b2-9934-159e59d75186" alt="Mi-avatar" width="200px">
+<img src="https://github.com/user-attachments/assets/576e28bf-735b-4336-8cbc-1540c224ce8e" alt="Mi-avatar" width="200px" height="200px">
 </p>
 
 <h1 align="center">Hola, soy Quiroz-Zuniga 👋</h1>
