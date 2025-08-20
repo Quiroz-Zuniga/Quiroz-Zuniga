@@ -1,20 +1,19 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/576e28bf-735b-4336-8cbc-1540c224ce8e" alt="Mi-avatar" width="200px" height="200px">
+<img width="1200" height="1200" alt="ChatGPT Image Jun 24, 2025, 12_09_39 PM" src="https://github.com/user-attachments/assets/e74faf25-3092-4dac-b880-feec06f54091" />
 </p>
 
 <h1 align="center">Hola, soy Quiroz-Zuniga 👋</h1>
 
-<p align="center">💻 Estudiante de Ingeniería en Sistemas • Desarrollador Web • Apasionado por la Ciberseguridad 🚀</p>
+<p align="center">💻 Estudiante de Ingeniería en Sistemas • Desarrollador Web 🚀</p>
 
 ---
 
 ### 🧑‍🎓 Sobre mí
 
 - 🎓 Soy estudiante de **Ingeniería en Sistemas**.
-- 🌱 Actualmente aprendiendo **JavaScript** (LenguajeJS - Manzdev), **POO**, y **Python** (Dalto, MoureDev).
-- 🗂 Trabajo con **bases de datos MySQL**, integradas en proyectos como mi **Gestor de Eventos**.
-- 🖥️ Desarrollo sitios y sistemas con **HTML, CSS, JavaScript, WordPress**.
-- 🛠️ Uso herramientas como **Vite**, **XAMPP**, **tkinter**.
+- 🌱 Actualmente aprendiendo **JavaScript**,**Python**, **Java**,**MySQL**,*Ingles*.
+- 🖥️ Desarrollo sitios y sistemas con **HTML, CSS, JavaScript, WordPress**,**WIX**.
+- 🛠️ Uso herramientas como **Vite**, **XAMPP**, **tkinter**,**Figma**,**Photoshop**,**Illustrator**,**GIT**,**GitHub**.
 - 📚 Me organizo usando **SCRUM** en proyectos académicos y personales.
 - 🎯 Disciplinado y autodidacta, combinando estudio universitario con proyectos reales.
 
@@ -23,7 +22,7 @@
 ### 🚀 Áreas de interés
 
 - 🕸️ Desarrollo Web Frontend & Backend.
-- 🔍 **Ciberseguridad** (meta profesional a futuro).
+- 🔍 **Ciberseguridad**.
 - 🧠 Automatización e Inteligencia Artificial.
 - 🗂️ Bases de datos relacionales.
 
@@ -32,7 +31,7 @@
 ### ⚙️ Stack actual
 
 - **Frontend:** HTML, CSS, JavaScript, Vite, Python (tkinter)
-- **CMS:** WordPress
+- **CMS:** WordPress, WIX.
 - **Otros:** Git, GitHub, SCRUM
 
 ---
@@ -41,7 +40,7 @@
 
 - ✉️ Email: elquiroz08@gmail.com
 - 📝 Proyectos en desarrollo en este GitHub:
-- Sisimulación de Sistema Operativo (JavaScript)
+- Sisimulación de Sistema Operativo (JavaScript
 - Sistema de Votación (JavaScript).
 - Gestor de Eventos (Python)
 - Challenger HTML
