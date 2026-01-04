@@ -2,88 +2,130 @@
 <img width="1200" height="1200" alt="Terminal Banner" src="https://github.com/user-attachments/assets/e74faf25-3092-4dac-b880-feec06f54091" />
 </p>
 
-```bash
-┌─[ quiroz@github ]─[ ~/profile ]
-└──╼ $ neofetch
-               ██████╗ ██╗   ██╗██╗██████╗  ██████╗ ███████╗
-              ██╔═══██╗██║   ██║██║██╔══██╗██╔═══██╗╚══███╔╝
-              ██║   ██║██║   ██║██║██████╔╝██║   ██║  ███╔╝ 
-              ██║▄▄ ██║██║   ██║██║██╔══██╗██║▄▄ ██║ ███╔╝  
-              ╚██████╔╝╚██████╔╝██║██║  ██║╚██████╔╝███████╗
-               ╚══▀▀═╝  ╚═════╝ ╚═╝╚═╝  ╚═╝ ╚══▀▀═╝ ╚══════╝
-┌─[ quiroz@github ]─[ ~/about ]
-└──╼ $ whoami
+<h3>
+<span style="color:#98c379;">┌─[</span>
+<span style="color:#61afef;">quiroz@github</span>
+<span style="color:#98c379;">]─[</span>
+<span style="color:#e5c07b;">~/profile</span>
+<span style="color:#98c379;">]</span><br>
+<span style="color:#98c379;">└──╼</span>
+<span style="color:#c678dd;"> $ neofetch</span>
+</h3>
+
+<pre style="color:#61afef; background:#1e1e1e; padding:16px; border-radius:8px;">
+ ██████╗ ██╗   ██╗██╗██████╗  ██████╗ ███████╗
+██╔═══██╗██║   ██║██║██╔══██╗██╔═══██╗╚══███╔╝
+██║   ██║██║   ██║██║██████╔╝██║   ██║  ███╔╝ 
+██║▄▄ ██║██║   ██║██║██╔══██╗██║▄▄ ██║ ███╔╝  
+╚██████╔╝╚██████╔╝██║██║  ██║╚██████╔╝███████╗
+ ╚══▀▀═╝  ╚═════╝ ╚═╝╚═╝  ╚═╝ ╚══▀▀═╝ ╚══════╝
+</pre>
+
+---
+
+<h3>
+<span style="color:#98c379;">┌─[</span>
+<span style="color:#61afef;">quiroz@github</span>
+<span style="color:#98c379;">]─[</span>
+<span style="color:#e5c07b;">~/about</span>
+<span style="color:#98c379;">]</span><br>
+<span style="color:#98c379;">└──╼</span>
+<span style="color:#c678dd;"> $ whoami</span>
+</h3>
+
+```txt
 👋 Hola, soy Quiroz-Zuniga
 💻 Estudiante de Ingeniería en Sistemas
 🚀 Desarrollador Web
 📍 Honduras
+```
 
-┌─[ quiroz@github ]─[ ~/education ]
-└──╼ $ cat sobre_mi.txt
-🎓 Estudiante de Ingeniería en Sistemas
-🌱 Actualmente aprendiendo:
-   - JavaScript
-   - Python
-   - Java
-   - MySQL
-   - Inglés técnico
+<h3> <span style="color:#98c379;">┌─[</span> 
+<span style="color:#61afef;">quiroz@github</span>
+<span style="color:#98c379;">]─[</span> 
+<span style="color:#e5c07b;">~/interests</span> 
+<span style="color:#98c379;">]</span><br> 
+<span style="color:#98c379;">└──╼</span> 
+<span style="color:#c678dd;"> $ ls areas_de_interes/</span> </h3>
 
-🖥️ Desarrollo:
-   - HTML, CSS, JavaScript
-   - WordPress, WIX
-
-🛠️ Herramientas:
-   - Vite, XAMPP, Tkinter
-   - Figma, Photoshop, Illustrator
-   - Git, GitHub
-
-📚 Metodología: SCRUM
-🎯 Perfil disciplinado, autodidacta y orientado a proyectos reales
-
-┌─[ quiroz@github ]─[ ~/interests ]
-└──╼ $ ls areas_de_interes/
+```
 🕸️ desarrollo_web/
 🔐 ciberseguridad/
 🤖 automatizacion_IA/
 🗂️ bases_de_datos/
+```
+<h3>
+<span style="color:#98c379;">┌─[</span>
+<span style="color:#61afef;">quiroz@github</span>
+<span style="color:#98c379;">]─[</span>
+<span style="color:#e5c07b;">~/stack</span>
+<span style="color:#98c379;">]</span><br>
+<span style="color:#98c379;">└──╼</span>
+<span style="color:#c678dd;"> $ neovim stack.js</span>
+</h3>
 
-┌─[ quiroz@github ]─[ ~/stack ]
-└──╼ $ neovim stack.yml
-Frontend:
-  - HTML
-  - CSS
-  - JavaScript
-  - Vite
-  - Python (Tkinter)
+```
+const Quiroz = {
+  role: "Estudiante de Ingeniería en Sistemas | Web Developer",
+  location: "Honduras",
 
-CMS:
-  - WordPress
-  - WIX
+  languages: {
+    frontend: ["HTML", "CSS", "JavaScript"],
+    backend: ["Python"],
+    databases: ["MySQL"],
+    learning: ["Java"]
+  },
 
-Otros:
-  - Git
-  - GitHub
-  - SCRUM
+  frameworks_tools: {
+    frontend: ["Vite", "Tkinter"],
+    cms: ["WordPress", "WIX"],
+    design: ["Figma", "Photoshop", "Illustrator"]
+  },
 
-┌─[ quiroz@github ]─[ ~/projects ]
-└──╼ $ tree proyectos/
+  dev_tools: ["Git", "GitHub", "XAMPP"],
+
+  methodologies: ["SCRUM"],
+
+  soft_skills: [
+    "Autodidacta",
+    "Disciplinado",
+    "Trabajo en equipo",
+    "Orientado a proyectos"
+  ],
+
+  status: function () {
+    return "🚀 Building real projects & learning every day";
+  }
+};
+
+console.log(Quiroz.status());
+
+```
+
+<h3> 
+<span style="color:#98c379;">┌─[</span> 
+<span style="color:#61afef;">quiroz@github</span>
+<span style="color:#98c379;">]─[</span>
+<span style="color:#e5c07b;">~/projects</span> 
+<span style="color:#98c379;">]</span><br> 
+<span style="color:#98c379;">└──╼</span> 
+<span style="color:#c678dd;"> $ tree proyectos/</span>
+</h3>
+
+```
 📂 proyectos
 ├── 🧠 simulacion_sistema_operativo_js
 ├── 🗳️ sistema_votacion_js
 ├── 📅 gestor_eventos_python
 └── 🌐 challenger_html
+```
 
-┌─[ quiroz@github ]─[ ~/contact ]
-└──╼ $ cat contacto.txt
+<h3>
+<span style="color:#98c379;">┌─[</span>
+<span style="color:#61afef;">quiroz@github</span> 
+<span style="color:#98c379;">]─[</span> <span style="color:#e5c07b;">~/contact</span> 
+<span style="color:#98c379;">]</span><br> <span style="color:#98c379;">└──╼</span> 
+<span style="color:#c678dd;"> $ cat contacto.txt</span> </h3>
+
+```
 ✉️ Email: elquiroz08@gmail.com
-
-┌─[ quiroz@github ]─[ ~/languages ]
-└──╼ $ locale
-🗣️ Español (nativo)
-📘 Inglés técnico (aprendiendo)
-
-┌─[ quiroz@github ]─[ ~/meta ]
-└──╼ $ echo "Pronouns: Kiroz"
-
-┌─[ quiroz@github ]─[ ~/status ]
-└──╼ $ echo "Ready to build 🚀"
