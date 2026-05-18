@@ -1,6 +1,6 @@
 <div align="center">
 
-# Isai Quiroz
+# Ruben Quiroz
 
 ### Systems Builder | Dev Lab | Ingeniería en Sistemas • Web Development • Soluciones reales
 
@@ -14,69 +14,27 @@
 
 ---
 
-<h3>
-<span style="color:#22c55e;">┌─[</span>
-<span style="color:#60a5fa;">isai@github</span>
-<span style="color:#22c55e;">]─[</span>
-<span style="color:#facc15;">~/profile</span>
-<span style="color:#22c55e;">]</span><br>
-<span style="color:#22c55e;">└──╼</span>
-<span style="color:#c084fc;"> $ whoami</span>
-</h3>
+## Perfil
 
-```bash
-👋 Hola, soy Isai Quiroz
-🎓 Estudiante de Ingeniería en Sistemas
-🛠️ Systems Builder en formación
-🌐 Desarrollador web enfocado en soluciones reales
-📍 Honduras
-```
-
-## Dev Lab Overview
-
-Soy estudiante de Ingeniería en Sistemas y desarrollador web en formación. Actualmente estoy construyendo soluciones reales con frontend, backend, bases de datos e inteligencia artificial.
+Hola, soy Ruben Quiroz. Soy estudiante de Ingeniería en Sistemas y desarrollador web en formación, con interés en construir soluciones reales usando frontend, backend, bases de datos e inteligencia artificial.
 
 Me enfoco en crear sistemas útiles para negocios, educación, cultura y pequeñas empresas, con una mentalidad práctica, estructurada y orientada a resultados.
 
-<h3>
-<span style="color:#22c55e;">┌─[</span>
-<span style="color:#60a5fa;">isai@github</span>
-<span style="color:#22c55e;">]─[</span>
-<span style="color:#facc15;">~/mission</span>
-<span style="color:#22c55e;">]</span><br>
-<span style="color:#22c55e;">└──╼</span>
-<span style="color:#c084fc;"> $ cat current_focus.md</span>
-</h3>
+## En Qué Estoy Trabajando
 
 - Desarrollo web con JavaScript, React, Next.js y Node.js
 - Backend con Express, Prisma, Supabase y MySQL
 - Sistemas administrativos, CMS, ERP y automatizaciones
 - Uso de IA para acelerar desarrollo, documentación y análisis técnico
 
-<h3>
-<span style="color:#22c55e;">┌─[</span>
-<span style="color:#60a5fa;">isai@github</span>
-<span style="color:#22c55e;">]─[</span>
-<span style="color:#facc15;">~/learning</span>
-<span style="color:#22c55e;">]</span><br>
-<span style="color:#22c55e;">└──╼</span>
-<span style="color:#c084fc;"> $ ls learning_path/</span>
-</h3>
+## Actualmente Aprendiendo
 
 - Arquitectura fullstack
 - Bases de datos relacionales
 - Deploy con Vercel, Render, Railway y Supabase
 - Agentes de IA como Codex, Claude Code y herramientas similares
 
-<h3>
-<span style="color:#22c55e;">┌─[</span>
-<span style="color:#60a5fa;">isai@github</span>
-<span style="color:#22c55e;">]─[</span>
-<span style="color:#facc15;">~/stack</span>
-<span style="color:#22c55e;">]</span><br>
-<span style="color:#22c55e;">└──╼</span>
-<span style="color:#c084fc;"> $ ./stack --show</span>
-</h3>
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -96,73 +54,36 @@ Me enfoco en crear sistemas útiles para negocios, educación, cultura y pequeñ
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
 </p>
 
-<h3>
-<span style="color:#22c55e;">┌─[</span>
-<span style="color:#60a5fa;">isai@github</span>
-<span style="color:#22c55e;">]─[</span>
-<span style="color:#facc15;">~/projects</span>
-<span style="color:#22c55e;">]</span><br>
-<span style="color:#22c55e;">└──╼</span>
-<span style="color:#c084fc;"> $ tree featured_projects/</span>
-</h3>
+## Proyectos Destacados
 
-```bash
-featured_projects/
-├── museo_interactivo_casa_de_la_cultura
-├── sistema_erp_administrativo
-├── sistema_bancario_js_poo
-├── bot_whatsapp_con_ia
-├── sistema_de_votacion_escolar
-└── portafolio_personal
-```
+- Museo Interactivo Casa de la Cultura
+- Sistema ERP / administrativo
+- Sistema bancario con JavaScript POO
+- Bot de WhatsApp con IA
+- Sistema de votación escolar
+- Portafolio personal
 
-## Build Philosophy
+## Filosofía de Construcción
 
 - Crear software útil, no solo demostraciones
 - Diseñar sistemas que puedan crecer y mantenerse
 - Usar IA como acelerador, no como sustituto del criterio técnico
 - Resolver problemas reales para clientes, negocios e instituciones
 
-<h3>
-<span style="color:#22c55e;">┌─[</span>
-<span style="color:#60a5fa;">isai@github</span>
-<span style="color:#22c55e;">]─[</span>
-<span style="color:#facc15;">~/telemetry</span>
-<span style="color:#22c55e;">]</span><br>
-<span style="color:#22c55e;">└──╼</span>
-<span style="color:#c084fc;"> $ fetch --stats github</span>
-</h3>
+## GitHub Telemetry
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Quiroz-Zuniga&show_icons=true&theme=transparent&title_color=2563eb&text_color=e5e7eb&icon_color=22c55e&border_color=334155&bg_color=00000000" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiroz-Zuniga&layout=compact&theme=transparent&title_color=2563eb&text_color=e5e7eb&border_color=334155&bg_color=00000000" alt="Top languages" />
 </div>
 
-<h3>
-<span style="color:#22c55e;">┌─[</span>
-<span style="color:#60a5fa;">isai@github</span>
-<span style="color:#22c55e;">]─[</span>
-<span style="color:#facc15;">~/objective_2026</span>
-<span style="color:#22c55e;">]</span><br>
-<span style="color:#22c55e;">└──╼</span>
-<span style="color:#c084fc;"> $ cat mission.txt</span>
-</h3>
+## Objetivo 2026
 
 > Convertirme en un desarrollador capaz de crear, desplegar y mantener soluciones tecnológicas reales para clientes y empresas.
 
-<h3>
-<span style="color:#22c55e;">┌─[</span>
-<span style="color:#60a5fa;">isai@github</span>
-<span style="color:#22c55e;">]─[</span>
-<span style="color:#facc15;">~/contact</span>
-<span style="color:#22c55e;">]</span><br>
-<span style="color:#22c55e;">└──╼</span>
-<span style="color:#c084fc;"> $ cat contact.txt</span>
-</h3>
+## Contacto
 
-```bash
-Email: elquiroz08@gmail.com
-```
+- Email: [elquiroz08@gmail.com](mailto:elquiroz08@gmail.com)
 
 ---
 
