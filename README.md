@@ -1,150 +1,97 @@
-<p align="center">
-<img width="1200" height="1200" alt="Terminal Banner" src="https://github.com/user-attachments/assets/e74faf25-3092-4dac-b880-feec06f54091" />
+<div align="center">
+
+# Quiroz Zuniga
+
+### Systems Engineering Student | Web Developer | Building with discipline, curiosity, and purpose
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Honduras-0B3D91?style=for-the-badge&labelColor=061A40" alt="Location Honduras" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-0B3D91?style=for-the-badge&labelColor=061A40" alt="Focus Web Development" />
+  <img src="https://img.shields.io/badge/Learning-Java%20%26%20AI-0B3D91?style=for-the-badge&labelColor=061A40" alt="Learning Java and AI" />
 </p>
 
-<h3>
-<span style="color:#98c379;">┌─[</span>
-<span style="color:#61afef;">quiroz@github</span>
-<span style="color:#98c379;">]─[</span>
-<span style="color:#e5c07b;">~/profile</span>
-<span style="color:#98c379;">]</span><br>
-<span style="color:#98c379;">└──╼</span>
-<span style="color:#c678dd;"> $ neofetch</span>
-</h3>
-
-<pre style="color:#61afef; background:#1e1e1e; padding:16px; border-radius:8px;">
- ██████╗ ██╗   ██╗██╗██████╗  ██████╗ ███████╗
-██╔═══██╗██║   ██║██║██╔══██╗██╔═══██╗╚══███╔╝
-██║   ██║██║   ██║██║██████╔╝██║   ██║  ███╔╝ 
-██║▄▄ ██║██║   ██║██║██╔══██╗██║▄▄ ██║ ███╔╝  
-╚██████╔╝╚██████╔╝██║██║  ██║╚██████╔╝███████╗
- ╚══▀▀═╝  ╚═════╝ ╚═╝╚═╝  ╚═╝ ╚══▀▀═╝ ╚══════╝
-</pre>
+</div>
 
 ---
 
-<h3>
-<span style="color:#98c379;">┌─[</span>
-<span style="color:#61afef;">quiroz@github</span>
-<span style="color:#98c379;">]─[</span>
-<span style="color:#e5c07b;">~/about</span>
-<span style="color:#98c379;">]</span><br>
-<span style="color:#98c379;">└──╼</span>
-<span style="color:#c678dd;"> $ whoami</span>
-</h3>
+## Mission Brief
 
-```txt
-👋 Hola, soy Quiroz-Zuniga
-💻 Estudiante de Ingeniería en Sistemas
-🚀 Desarrollador Web
-📍 Honduras
-```
+I am a Systems Engineering student from Honduras focused on web development, practical software projects, and continuous learning. I enjoy building solutions that combine structure, usability, and real-world value while strengthening my foundations in programming, databases, and modern development tools.
 
-<h3> <span style="color:#98c379;">┌─[</span> 
-<span style="color:#61afef;">quiroz@github</span>
-<span style="color:#98c379;">]─[</span> 
-<span style="color:#e5c07b;">~/interests</span> 
-<span style="color:#98c379;">]</span><br> 
-<span style="color:#98c379;">└──╼</span> 
-<span style="color:#c678dd;"> $ ls areas_de_interes/</span> </h3>
+## Current Objectives
 
-```
-🕸️ desarrollo_web/
-🔐 ciberseguridad/
-🤖 automatizacion_IA/
-🗂️ bases_de_datos/
-```
-<h3>
-<span style="color:#98c379;">┌─[</span>
-<span style="color:#61afef;">quiroz@github</span>
-<span style="color:#98c379;">]─[</span>
-<span style="color:#e5c07b;">~/stack</span>
-<span style="color:#98c379;">]</span><br>
-<span style="color:#98c379;">└──╼</span>
-<span style="color:#c678dd;"> $ neovim stack.js</span>
-</h3>
+- Build solid web projects with clean structure and clear user experience.
+- Keep improving in backend development with Python and databases.
+- Expand my knowledge in Java, automation, and applied AI.
+- Grow as a disciplined developer through consistent practice and teamwork.
 
-```
-const Quiroz = {
-  role: "Estudiante de Ingeniería en Sistemas | Web Developer",
-  location: "Honduras",
+## Core Systems
 
-  languages: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["Python"],
-    databases: ["MySQL"],
-    learning: ["Java"]
-  },
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-  frameworks_tools: {
-    frontend: ["Vite", "Tkinter"],
-    cms: ["WordPress", "WIX"],
-    design: ["Figma", "Photoshop", "Illustrator"]
-  },
+### Tools and Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tkinter-0B3D91?style=flat-square&logo=python&logoColor=white" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
+</p>
 
-  dev_tools: ["Git", "GitHub", "XAMPP"],
+### Design and CMS
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white" alt="Wix" />
+</p>
 
-  methodologies: ["SCRUM"],
+## Mission Areas
 
-  soft_skills: [
-    "Autodidacta",
-    "Disciplinado",
-    "Trabajo en equipo",
-    "Orientado a proyectos"
-  ],
+- Web development
+- Cybersecurity
+- AI automation
+- Database systems
 
-  status: function () {
-    return "🚀 Building real projects & learning every day";
-  }
-};
+## Project Radar
 
-console.log(Quiroz.status());
+- Operating system simulation in JavaScript
+- Voting system in JavaScript
+- Event manager in Python
+- Frontend challenge projects with HTML and CSS
 
-```
+## Professional Signals
 
-<h3> 
-<span style="color:#98c379;">┌─[</span> 
-<span style="color:#61afef;">quiroz@github</span>
-<span style="color:#98c379;">]─[</span>
-<span style="color:#e5c07b;">~/projects</span> 
-<span style="color:#98c379;">]</span><br> 
-<span style="color:#98c379;">└──╼</span> 
-<span style="color:#c678dd;"> $ tree proyectos/</span>
-</h3>
+- Self-taught mindset
+- Team collaboration
+- Discipline and consistency
+- Project-oriented work ethic
+- Interest in structured and scalable solutions
 
-```
-📂 proyectos
-├── 🧠 simulacion_sistema_operativo_js
-├── 🗳️ sistema_votacion_js
-├── 📅 gestor_eventos_python
-└── 🌐 challenger_html
-```
+## GitHub Telemetry
 
-<h3>
-<span style="color:#98c379;">┌─[</span>
-<span style="color:#61afef;">quiroz@github</span> 
-<span style="color:#98c379;">]─[</span> <span style="color:#e5c07b;">~/contact</span> 
-<span style="color:#98c379;">]</span><br> <span style="color:#98c379;">└──╼</span> 
-<span style="color:#c678dd;"> $ cat contacto.txt</span> </h3>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Quiroz-Zuniga&show_icons=true&theme=transparent&title_color=0B3D91&text_color=1F2937&icon_color=0B3D91&border_color=D6E4F0" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiroz-Zuniga&layout=compact&theme=transparent&title_color=0B3D91&text_color=1F2937&border_color=D6E4F0" alt="Top languages" />
+</div>
 
-```
-✉️ Email: elquiroz08@gmail.com
-```
-<h3>
-<span style="color:#98c379;">┌─[</span>
-<span style="color:#61afef;">quiroz@github</span>
-<span style="color:#98c379;">]─[</span>
-<span style="color:#e5c07b;">~/frase</span>
-<span style="color:#98c379;">]</span><br>
-<span style="color:#98c379;">└──╼</span>
-<span style="color:#c678dd;"> $ neofetch</span>
-</h3>
+## Contact Channel
 
-<pre style="color:#61afef; background:#1e1e1e; padding:16px; border-radius:8px;">
-┌────────────────────────────────────────────────────────────┐
-│  LA CLAVE NO ESTA EN EMPEZAR, SINO EN PERSEVERAR           │
-└────────────────────────────────────────────────────────────┘
-</pre>
+- Email: [elquiroz08@gmail.com](mailto:elquiroz08@gmail.com)
 
 ---
 
+<div align="center">
+
+> "The key is not only to start, but to keep moving forward."
+
+</div>
