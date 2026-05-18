@@ -1,97 +1,173 @@
 <div align="center">
 
-# Quiroz Zuniga
+# Isai Quiroz
 
-### Systems Engineering Student | Web Developer | Building with discipline, curiosity, and purpose
+### Systems Builder | Dev Lab | Ingeniería en Sistemas • Web Development • Soluciones reales
 
 <p>
-  <img src="https://img.shields.io/badge/Location-Honduras-0B3D91?style=for-the-badge&labelColor=061A40" alt="Location Honduras" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-0B3D91?style=for-the-badge&labelColor=061A40" alt="Focus Web Development" />
-  <img src="https://img.shields.io/badge/Learning-Java%20%26%20AI-0B3D91?style=for-the-badge&labelColor=061A40" alt="Learning Java and AI" />
+  <img src="https://img.shields.io/badge/Location-Honduras-0f172a?style=for-the-badge&labelColor=020617" alt="Location Honduras" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20Builder-0f172a?style=for-the-badge&labelColor=020617" alt="Focus Systems Builder" />
+  <img src="https://img.shields.io/badge/Mode-Dev%20Lab-0f172a?style=for-the-badge&labelColor=020617" alt="Mode Dev Lab" />
 </p>
 
 </div>
 
 ---
 
-## Mission Brief
+<h3>
+<span style="color:#22c55e;">┌─[</span>
+<span style="color:#60a5fa;">isai@github</span>
+<span style="color:#22c55e;">]─[</span>
+<span style="color:#facc15;">~/profile</span>
+<span style="color:#22c55e;">]</span><br>
+<span style="color:#22c55e;">└──╼</span>
+<span style="color:#c084fc;"> $ whoami</span>
+</h3>
 
-I am a Systems Engineering student from Honduras focused on web development, practical software projects, and continuous learning. I enjoy building solutions that combine structure, usability, and real-world value while strengthening my foundations in programming, databases, and modern development tools.
+```bash
+👋 Hola, soy Isai Quiroz
+🎓 Estudiante de Ingeniería en Sistemas
+🛠️ Systems Builder en formación
+🌐 Desarrollador web enfocado en soluciones reales
+📍 Honduras
+```
 
-## Current Objectives
+## Dev Lab Overview
 
-- Build solid web projects with clean structure and clear user experience.
-- Keep improving in backend development with Python and databases.
-- Expand my knowledge in Java, automation, and applied AI.
-- Grow as a disciplined developer through consistent practice and teamwork.
+Soy estudiante de Ingeniería en Sistemas y desarrollador web en formación. Actualmente estoy construyendo soluciones reales con frontend, backend, bases de datos e inteligencia artificial.
 
-## Core Systems
+Me enfoco en crear sistemas útiles para negocios, educación, cultura y pequeñas empresas, con una mentalidad práctica, estructurada y orientada a resultados.
 
-### Languages
+<h3>
+<span style="color:#22c55e;">┌─[</span>
+<span style="color:#60a5fa;">isai@github</span>
+<span style="color:#22c55e;">]─[</span>
+<span style="color:#facc15;">~/mission</span>
+<span style="color:#22c55e;">]</span><br>
+<span style="color:#22c55e;">└──╼</span>
+<span style="color:#c084fc;"> $ cat current_focus.md</span>
+</h3>
+
+- Desarrollo web con JavaScript, React, Next.js y Node.js
+- Backend con Express, Prisma, Supabase y MySQL
+- Sistemas administrativos, CMS, ERP y automatizaciones
+- Uso de IA para acelerar desarrollo, documentación y análisis técnico
+
+<h3>
+<span style="color:#22c55e;">┌─[</span>
+<span style="color:#60a5fa;">isai@github</span>
+<span style="color:#22c55e;">]─[</span>
+<span style="color:#facc15;">~/learning</span>
+<span style="color:#22c55e;">]</span><br>
+<span style="color:#22c55e;">└──╼</span>
+<span style="color:#c084fc;"> $ ls learning_path/</span>
+</h3>
+
+- Arquitectura fullstack
+- Bases de datos relacionales
+- Deploy con Vercel, Render, Railway y Supabase
+- Agentes de IA como Codex, Claude Code y herramientas similares
+
+<h3>
+<span style="color:#22c55e;">┌─[</span>
+<span style="color:#60a5fa;">isai@github</span>
+<span style="color:#22c55e;">]─[</span>
+<span style="color:#facc15;">~/stack</span>
+<span style="color:#22c55e;">]</span><br>
+<span style="color:#22c55e;">└──╼</span>
+<span style="color:#c084fc;"> $ ./stack --show</span>
+</h3>
+
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-### Tools and Platforms
-<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tkinter-0B3D91?style=flat-square&logo=python&logoColor=white" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
 </p>
 
-### Design and CMS
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white" alt="Wix" />
-</p>
+<h3>
+<span style="color:#22c55e;">┌─[</span>
+<span style="color:#60a5fa;">isai@github</span>
+<span style="color:#22c55e;">]─[</span>
+<span style="color:#facc15;">~/projects</span>
+<span style="color:#22c55e;">]</span><br>
+<span style="color:#22c55e;">└──╼</span>
+<span style="color:#c084fc;"> $ tree featured_projects/</span>
+</h3>
 
-## Mission Areas
+```bash
+featured_projects/
+├── museo_interactivo_casa_de_la_cultura
+├── sistema_erp_administrativo
+├── sistema_bancario_js_poo
+├── bot_whatsapp_con_ia
+├── sistema_de_votacion_escolar
+└── portafolio_personal
+```
 
-- Web development
-- Cybersecurity
-- AI automation
-- Database systems
+## Build Philosophy
 
-## Project Radar
+- Crear software útil, no solo demostraciones
+- Diseñar sistemas que puedan crecer y mantenerse
+- Usar IA como acelerador, no como sustituto del criterio técnico
+- Resolver problemas reales para clientes, negocios e instituciones
 
-- Operating system simulation in JavaScript
-- Voting system in JavaScript
-- Event manager in Python
-- Frontend challenge projects with HTML and CSS
-
-## Professional Signals
-
-- Self-taught mindset
-- Team collaboration
-- Discipline and consistency
-- Project-oriented work ethic
-- Interest in structured and scalable solutions
-
-## GitHub Telemetry
+<h3>
+<span style="color:#22c55e;">┌─[</span>
+<span style="color:#60a5fa;">isai@github</span>
+<span style="color:#22c55e;">]─[</span>
+<span style="color:#facc15;">~/telemetry</span>
+<span style="color:#22c55e;">]</span><br>
+<span style="color:#22c55e;">└──╼</span>
+<span style="color:#c084fc;"> $ fetch --stats github</span>
+</h3>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Quiroz-Zuniga&show_icons=true&theme=transparent&title_color=0B3D91&text_color=1F2937&icon_color=0B3D91&border_color=D6E4F0" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiroz-Zuniga&layout=compact&theme=transparent&title_color=0B3D91&text_color=1F2937&border_color=D6E4F0" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Quiroz-Zuniga&show_icons=true&theme=transparent&title_color=2563eb&text_color=e5e7eb&icon_color=22c55e&border_color=334155&bg_color=00000000" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiroz-Zuniga&layout=compact&theme=transparent&title_color=2563eb&text_color=e5e7eb&border_color=334155&bg_color=00000000" alt="Top languages" />
 </div>
 
-## Contact Channel
+<h3>
+<span style="color:#22c55e;">┌─[</span>
+<span style="color:#60a5fa;">isai@github</span>
+<span style="color:#22c55e;">]─[</span>
+<span style="color:#facc15;">~/objective_2026</span>
+<span style="color:#22c55e;">]</span><br>
+<span style="color:#22c55e;">└──╼</span>
+<span style="color:#c084fc;"> $ cat mission.txt</span>
+</h3>
 
-- Email: [elquiroz08@gmail.com](mailto:elquiroz08@gmail.com)
+> Convertirme en un desarrollador capaz de crear, desplegar y mantener soluciones tecnológicas reales para clientes y empresas.
+
+<h3>
+<span style="color:#22c55e;">┌─[</span>
+<span style="color:#60a5fa;">isai@github</span>
+<span style="color:#22c55e;">]─[</span>
+<span style="color:#facc15;">~/contact</span>
+<span style="color:#22c55e;">]</span><br>
+<span style="color:#22c55e;">└──╼</span>
+<span style="color:#c084fc;"> $ cat contact.txt</span>
+</h3>
+
+```bash
+Email: elquiroz08@gmail.com
+```
 
 ---
 
 <div align="center">
 
-> "The key is not only to start, but to keep moving forward."
+`building systems, learning deeply, shipping with purpose`
 
 </div>
